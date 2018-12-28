@@ -9,7 +9,7 @@ A python script that helps to play loco trvia game real time.
 py -0
 ```
 You should get an output like this
-```sh
+```
 Installed Pythons found by py Launcher for Windows
  -2.7-64 *
 ```
